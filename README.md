@@ -1,4 +1,4 @@
-
+# Simple Interest Calculator
 
 This project is a simple interest calculator.
 
@@ -10,9 +10,4 @@ It calculates simple interest based on:
 Formula:
 Simple Interest = (Principal × Rate × Time) / 100
 
-Users can input:
-- Principal
-- Rate of interest
-- Time period
-
-The script will calculate and display the simple interest.
+Users can enter principal, rate, and time to calculate simple interest.
