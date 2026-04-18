@@ -1,14 +1,14 @@
 ## Our Pledge
-We pledge to create a welcoming environment.
+We pledge to make participation respectful and inclusive.
 
 ## Our Standards
-Examples include respectful behavior and inclusion.
+Examples include respectful behavior and professionalism.
 
 ## Enforcement Responsibilities
-Maintainers are responsible for enforcement.
+Maintainers enforce the code of conduct.
 
 ## Scope
-Applies to all project spaces.
+Applies to all project areas.
 
 ## Enforcement
 Violations will be addressed.
